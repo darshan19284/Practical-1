@@ -1,17 +1,17 @@
-
 .main {
+
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 800px;
-    height: 600px;
-    background-color: aquamarine;
+    width: 1000px;
+    height: 1000px;
+    background-color: navajowhite;
 }
 
 .main .main1{
     width: 250px;
     height: 400px;
-    background-color: red;
+    background-color: coral;
     margin: 2rem;
 }
 .main .main2{
@@ -35,8 +35,8 @@
     background-color: goldenrod;
 }
 .main .main2 .sub1{
-    width: 5rem;
-    height: 5rem;
+    width: 8rem;
+    height: 8rem;
     background-color: green;
     margin: 2rem;
 
@@ -44,8 +44,8 @@
 
 .main .main2 .sub2{
     
-    width: 5rem;
-    height: 4rem;
+    width: 8rem;
+    height: 8rem;
     background-color: grey;
    
 
@@ -56,10 +56,10 @@
 }
 
 .main .main3 .sub1{
-    width: 7rem;
-    height: 4rem;
+    width: 11rem;
+    height: 7rem;
     background-color: grey;
-    margin: 2rem;
+    margin: 1rem;
     display: flex;
     flex-wrap: wrap;
    
@@ -67,17 +67,18 @@
 }
 
 .main .main3 .sub2{
-    width: 3rem;
-    height: 4rem;
+    width: 5rem;
+    height: 8rem;
     background-color: rgb(81, 9, 9);
     margin: 2rem;
    
 
 }
 .main .main3 .sub3{
-    width: 3rem;
-    height: 4rem;
+    width: 5rem;
+    height: 8rem;
     background-color: rgb(0, 0, 0);
-   
+   margin: 2rem;
+
 
 }
